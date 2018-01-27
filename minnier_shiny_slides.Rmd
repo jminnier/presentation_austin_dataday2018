@@ -1,7 +1,7 @@
 ---
 title: '<font style="color: red;">Building Shiny Apps</font> <br> Challenges and Responsibilities'
 author: "<br> Jessica Minnier <br> email: minnier@ohsu.edu <br> @datapointier" 
-date: 'Saturday, January 27, 2018 <br> <br> Slides available at  <font style="text-transform: lowercase;"><http://bit.ly/shiny-austin></font> <br>'
+date: 'Saturday, January 27, 2018, Data/R Day Texas <br> <br> Slides available at  <font style="text-transform: lowercase;"><http://bit.ly/shiny-austin></font> <br>'
 output: 
   revealjs::revealjs_presentation:
     theme: simple
@@ -61,31 +61,25 @@ knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
 - Made one site with <font style="color: red;">one data set</font>
 - Created general site for <font style="color: red;">input data set</font>
 
-## Motivation For All
+## Motivation For All <br> <br> **Distribute your hard work!**
 
-> - **Distribute your hard work!**
-> - <font style="color: red;"> *Collaborator*: "How can I share my data?" </font>
-> - <font style="color: blue;"> *Developer/Statistician/Data Scientist*: "How can I get people to use my new method/package?" </font>
-> - <font style="color: green;"> *Developer/Statistician/Data Scientist*: "How can I create a product out of this analysis?" </font>
 
-## Shiny!
-
-##  Share Data!
+##  *Collaborator:* <br>"How can I share my data?"
 
 <img src="shinyapp_ht.png"></img>
 <https://kcvi.shinyapps.io/START_HT/>
 
-##  Use my package!
+## *Developer/Statistician/Data Scientist*: <br>"How can I get people to use my new method/package?"
 
 <img src="qvalue.png"></img>
 <http://qvalue.princeton.edu/>
 
-## Look at this analysis I did!
+## *Developer/Statistician/Data Scientist*: <br> Look at this analysis I did!
 
 <img src="phillyschools.png"></img>
 <https://gallery.shinyapps.io/TSupplyDemand/>
 
-## Bonus: Teach Some things! (`learnr`)
+## *Everyone:* Teach Some things! (`learnr`)
 
 <img src="learnr.png"></img>
 <https://minnier.shinyapps.io/ODSI_continuousData/>
@@ -232,25 +226,6 @@ Many possible ways to analyze data:
 
 <img src="start_input_options.png"/>
 
-## Challenges, Analysis
-
-QA/QC
-
-<font style="color: red;">Present QA plots up front</font>
-
-<img src="start_qa.png" width="800px">
-
-## Challenges, Analysis
-
-QA/QC
-
-<font style="color: red;">Present QA plots up front</font>
-
-
-<https://github.com/joey711/shiny-phyloseq>
-<img src="phyloseq_qa.png" width="800px"></img>
-
-
 ## Challenges, Input/Ouput Data
 
 - Input data ~ multiple formats: <font style="color: red;">Special input formats</font>
@@ -272,6 +247,26 @@ QA/QC
 
 <img src="clustvis_inputdata2.png"></img>
 <https://biit.cs.ut.ee/clustvis/>
+
+## Challenges, Analysis
+
+QA/QC
+
+<font style="color: red;">Present QA plots up front</font>
+
+<img src="start_qa.png" width="800px">
+
+## Challenges, Analysis
+
+QA/QC
+
+<font style="color: red;">Present QA plots up front</font>
+
+
+<https://github.com/joey711/shiny-phyloseq>
+<img src="phyloseq_qa.png" width="800px"></img>
+
+
 
 
 ## Responsibilities, Food for thought:
@@ -337,8 +332,6 @@ Good luck with that.
 
 <img src="start_error.png"></img>
 
-Hot tip: Ted Laderas says: "Debugging is easier when you use objects instead of functions"<br>
-(btw: check out his intro shiny [tutorial](https://github.com/laderast/shiny_workshop_pdxrlang))
 
 ## New methods are also nice
 
