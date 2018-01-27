@@ -213,19 +213,6 @@ Interactive <font style="color: red;">search</font> boxes/filtering + <font styl
 
 <img src="start_search.gif" />
 
-## Challenges, Analysis
-
-Many possible ways to analyze data: 
-
-<font style="color: red;">
-
-- Restrict analyses performed
-- Allow for uploading of analysis results
-
-</font>
-
-<img src="start_input_options.png"/>
-
 ## Challenges, Input/Ouput Data
 
 - Input data ~ multiple formats: <font style="color: red;">Special input formats</font>
@@ -247,6 +234,19 @@ Many possible ways to analyze data:
 
 <img src="clustvis_inputdata2.png"></img>
 <https://biit.cs.ut.ee/clustvis/>
+
+## Challenges, Analysis
+
+Many possible ways to analyze data: 
+
+<font style="color: red;">
+
+- Restrict analyses performed
+- Allow for uploading of analysis results
+
+</font>
+
+<img src="start_input_options.png"/>
 
 ## Challenges, Analysis
 
