@@ -14,8 +14,8 @@ output:
     transition: fade
     background_transition: zoom
     slide_level: 2
-    # reveal_plugins: ["notes"]
-    # self_contained: false
+    reveal_plugins: ["notes"]
+    self_contained: false
     reveal_options:
       slideNumber: true
 ---
